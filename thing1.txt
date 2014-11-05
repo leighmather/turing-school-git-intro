@@ -1,1 +1,3 @@
 This is the first Thing.  Here is a new sentence in Thing No. 1.
+
+A new line!

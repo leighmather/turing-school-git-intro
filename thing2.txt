@@ -1,1 +1,3 @@
-This is the second Thing.
+This is the second Thing.  This is a new sentence in Thing No. 2.
+
+A new line! 
